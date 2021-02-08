@@ -9,7 +9,7 @@ public class LargeFamilies extends Allowance {
     }
 
     LargeFamilies() {
-        numberOfChildren = 3;
+        this.numberOfChildren = 3;
     }
 
     public int getNumberOfChildren() {
